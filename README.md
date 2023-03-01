@@ -1,14 +1,9 @@
 ## Hello 👋
-My name is Hera Shafira, i am currently a 3rd year Informatics Engineering student at Institut Teknologi Bandung. My current interests are UI/UX design and website frontend development, but i am always eager to explore new things!
+My name is Hera Shafira, i am currently a final year Informatics Engineering student at Institut Teknologi Bandung. My current interest is software engineering.
 
 ## Programming 💻
-Python, Javascript, C/C++, Java, SQL, PHP
+Go, Java, Python, Typescript, Javascript
 
-## Technologies 💻 
-Vue.js, React, Flask
-
-## Contact me 💬
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hera-shafira/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/herashfr/)  
 <!--
 **hrshfr/hrshfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
