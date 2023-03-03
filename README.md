@@ -1,8 +1,13 @@
 ## Hello 👋
-My name is Hera Shafira, i am currently a final year Informatics Engineering student at Institut Teknologi Bandung. My current interest is software engineering.
+My name is Hera Shafira, i am currently a final year Informatics Engineering student at Institut Teknologi Bandung. My current interest is software engineering. Nice to meet you!
 
-## Programming 💻
-Go, Java, Python, Typescript, Javascript
+## Programming Language 💻
+ ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <!--
 **hrshfr/hrshfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
